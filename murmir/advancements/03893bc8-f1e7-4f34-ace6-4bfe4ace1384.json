@@ -1,0 +1,267 @@
+{
+  "raspberryflavoured:furnace": {
+    "criteria": {
+      "Place down Furnace": "2025-03-27 03:04:39 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:tnt": {
+    "criteria": {
+      "0": "2025-03-28 20:25:27 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:pickaxe": {
+    "criteria": {
+      "0": "2025-03-27 02:55:22 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:andesite_alloy": {
+    "criteria": {
+      "0": "2025-03-27 04:07:31 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:potato_meals": {
+    "criteria": {
+      "Obtain Baked Potato": "2025-03-28 19:45:22 +0300"
+    },
+    "done": false
+  },
+  "raspberryflavoured:atlas": {
+    "criteria": {
+      "Obtain Spyglass": "2025-03-28 20:01:06 +0300"
+    },
+    "done": false
+  },
+  "raspberryflavoured:all_discs": {
+    "criteria": {
+      "C418 - face": "2025-03-28 19:09:20 +0300"
+    },
+    "done": false
+  },
+  "raspberryflavoured:raw_iron": {
+    "criteria": {
+      "0": "2025-03-27 03:07:23 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:cloth": {
+    "criteria": {
+      "0": "2025-03-27 03:05:19 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:hoe": {
+    "criteria": {
+      "0": "2025-03-27 03:44:50 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:compass": {
+    "criteria": {
+      "Obtain Compass": "2025-03-28 20:06:33 +0300",
+      "Obtain Depth Gauge": "2025-03-28 20:51:56 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:campfire": {
+    "criteria": {
+      "Light Campfire Kindling on fire": "2025-03-27 03:40:48 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:knife": {
+    "criteria": {
+      "0": "2025-03-27 03:41:49 +0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-03-27 02:51:56 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:tech_root": {
+    "criteria": {
+      "0": "2025-03-27 02:59:00 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:gems": {
+    "criteria": {
+      "Obtain Cinnabar, Diamond or Polished Rose Quartz": "2025-03-28 20:05:37 +0300",
+      "Obtain Rough Cinnabar, Rough Diamond or Rose Quartz": "2025-03-27 03:17:10 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:smithing_table": {
+    "criteria": {
+      "0": "2025-03-28 19:40:34 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:hunting_root": {
+    "criteria": {
+      "0": "2025-03-27 02:55:22 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:armour": {
+    "criteria": {
+      "0": "2025-03-27 04:20:05 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:straw": {
+    "criteria": {
+      "0": "2025-03-28 19:53:38 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:all_wood": {
+    "criteria": {
+      "Obtain Birch Log": "2025-03-27 02:51:56 +0300"
+    },
+    "done": false
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-03-27 02:51:56 +0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-03-27 02:51:56 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:strong_hoes": {
+    "criteria": {
+      "Obtain Copper Hoe": "2025-03-28 18:28:41 +0300",
+      "Obtain Wooden Hoe": "2025-03-27 03:44:50 +0300"
+    },
+    "done": false
+  },
+  "raspberryflavoured:plant_seed": {
+    "criteria": {
+      "Plant Wheat Seeds on Farmland": "2025-03-27 03:44:33 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:bundle": {
+    "criteria": {
+      "0": "2025-03-27 03:58:48 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:mech_press": {
+    "criteria": {
+      "0": "2025-03-27 04:16:09 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:silver": {
+    "criteria": {
+      "0": "2025-03-28 19:11:19 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:fishing_rod": {
+    "criteria": {
+      "0": "2025-03-28 20:16:02 +0300"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-03-27 02:51:56 +0300",
+      "inv_changed-diamond": "2025-03-27 02:51:56 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:sleep": {
+    "criteria": {
+      "0": "2025-03-28 18:52:59 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:all_fish": {
+    "criteria": {
+      "Obtain Cod": "2025-03-28 20:17:47 +0300",
+      "Obtain Trout": "2025-03-28 20:14:37 +0300",
+      "Obtain Bluegill": "2025-03-28 20:17:15 +0300",
+      "Obtain Salmon": "2025-03-28 20:15:11 +0300",
+      "Obtain Bass": "2025-03-28 20:18:43 +0300",
+      "Obtain Gar": "2025-03-28 20:14:53 +0300"
+    },
+    "done": false
+  },
+  "raspberryflavoured:redstone": {
+    "criteria": {
+      "0": "2025-03-28 20:05:57 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:root": {
+    "criteria": {
+      "0": "2025-03-27 02:48:56 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:iron_pick": {
+    "criteria": {
+      "0": "2025-03-27 03:11:46 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:farming_root": {
+    "criteria": {
+      "1": "2025-03-27 02:55:09 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:all_crops": {
+    "criteria": {
+      "Obtain Sugar Cane": "2025-03-27 03:55:14 +0300",
+      "Obtain Flax": "2025-03-28 21:03:07 +0300",
+      "Obtain Pumpkin": "2025-03-27 03:02:13 +0300",
+      "Obtain Potato": "2025-03-28 19:19:49 +0300",
+      "Obtain Wheat": "2025-03-27 04:20:37 +0300",
+      "Obtain Sweet Berries": "2025-03-27 03:55:19 +0300"
+    },
+    "done": false
+  },
+  "raspberryflavoured:all_metals": {
+    "criteria": {
+      "Obtain Iron Ingot": "2025-03-27 03:11:37 +0300",
+      "Obtain Zinc Ingot": "2025-03-27 04:06:43 +0300",
+      "Obtain Copper Ingot": "2025-03-27 03:05:41 +0300",
+      "Obtain Lead Ingot": "2025-03-28 20:47:13 +0300",
+      "Obtain Gold Ingot": "2025-03-27 03:23:57 +0300"
+    },
+    "done": false
+  },
+  "raspberryflavoured:water_wheel": {
+    "criteria": {
+      "Place down Water Wheel": "2025-03-27 04:09:54 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:shield": {
+    "criteria": {
+      "0": "2025-03-27 02:56:56 +0300"
+    },
+    "done": true
+  },
+  "raspberryflavoured:copper_pick": {
+    "criteria": {
+      "0": "2025-03-27 03:06:17 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
